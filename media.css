@@ -1,10 +1,13 @@
 body{
     background-color: black;
     color: white;
+    background-image: url(./background1.jpg);
+    background-position: center;
+    background-size:cover;
 }
 
 #sample_img{
-    height: 400px;
+    height: 300px;
     margin-bottom: 20px;
 }
 
@@ -26,6 +29,12 @@ body{
         width: 150px;
         border: solid white;
         background-color: blue;
+    }
+
+    body{
+        background-image: url(./background2.jpg);
+        background-position: center;
+        background-size: cover;
     }
 
 }
