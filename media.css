@@ -9,6 +9,7 @@ body{
 #sample_img{
     height: 300px;
     margin-bottom: 20px;
+    border: solid black;
 }
 
 #sample_div{
@@ -22,6 +23,7 @@ body{
     #sample_img{
         height: 150px;
         margin-bottom: 20px;
+        border: solid black;
     }
 
     #sample_div{
