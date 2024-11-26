@@ -12,9 +12,10 @@ body{
     height: 250px;
     width: 250px;
     border: solid white;
+    background-color: red;
 }
 
-@media screen and (min-width:0px) and (max-width:425px) {
+@media screen and (min-width:0px) and (max-width:450px) {
     #sample_img{
         height: 150px;
         margin-bottom: 20px;
@@ -24,6 +25,7 @@ body{
         height: 150px;
         width: 150px;
         border: solid white;
+        background-color: blue;
     }
 
 }
